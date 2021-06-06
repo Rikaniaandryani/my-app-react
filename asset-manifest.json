@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rikaniaandryani/my-app-react.git/static/css/main.9ca6613e.chunk.css",
+    "main.js": "/Rikaniaandryani/my-app-react.git/static/js/main.72cfe40a.chunk.js",
+    "main.js.map": "/Rikaniaandryani/my-app-react.git/static/js/main.72cfe40a.chunk.js.map",
+    "runtime-main.js": "/Rikaniaandryani/my-app-react.git/static/js/runtime-main.7253e750.js",
+    "runtime-main.js.map": "/Rikaniaandryani/my-app-react.git/static/js/runtime-main.7253e750.js.map",
+    "static/js/2.af8232c1.chunk.js": "/Rikaniaandryani/my-app-react.git/static/js/2.af8232c1.chunk.js",
+    "static/js/2.af8232c1.chunk.js.map": "/Rikaniaandryani/my-app-react.git/static/js/2.af8232c1.chunk.js.map",
+    "static/js/3.35fdc5ad.chunk.js": "/Rikaniaandryani/my-app-react.git/static/js/3.35fdc5ad.chunk.js",
+    "static/js/3.35fdc5ad.chunk.js.map": "/Rikaniaandryani/my-app-react.git/static/js/3.35fdc5ad.chunk.js.map",
+    "index.html": "/Rikaniaandryani/my-app-react.git/index.html",
+    "static/css/main.9ca6613e.chunk.css.map": "/Rikaniaandryani/my-app-react.git/static/css/main.9ca6613e.chunk.css.map",
+    "static/js/2.af8232c1.chunk.js.LICENSE.txt": "/Rikaniaandryani/my-app-react.git/static/js/2.af8232c1.chunk.js.LICENSE.txt",
+    "static/media/cat.e63879d1.jpg": "/Rikaniaandryani/my-app-react.git/static/media/cat.e63879d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7253e750.js",
+    "static/js/2.af8232c1.chunk.js",
+    "static/css/main.9ca6613e.chunk.css",
+    "static/js/main.72cfe40a.chunk.js"
+  ]
+}
